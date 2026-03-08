@@ -1,7 +1,7 @@
 # Stock Portfolio Tracker
 
 # Hardcoded stock prices
-stock_prices = {
+stock_prices = { 
     "AAPL": 180,
     "TSLA": 250,
     "GOOGL": 2800,
