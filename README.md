@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker - Task 2
+ # Stock Portfolio Tracker - Task 2
 
 This is a simple Python program that calculates the total investment value of a stock portfolio.
 
